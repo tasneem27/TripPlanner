@@ -1,1 +1,3 @@
-
+Run command
+g++ -std=c++11 MainFile.cpp Functions.cpp
+./a.out
