@@ -1,1 +1,6 @@
 To use real time data at first stop uncomment lines 136 to 144 and line 170 in ShortestPath.cpp
+
+
+Run command
+g++ -std=c++11 MainFile.cpp Functions.cpp
+./a.out
