@@ -1,5 +1,5 @@
 To use real time data at first stop uncomment lines 136 to 144 and line 170 in ShortestPath.cpp
-
+Mean, variance have already been generated for interval duration= 120 and 60. Use this for faster output.
 
 Run command
 g++ -std=c++11 MainFile.cpp Functions.cpp
